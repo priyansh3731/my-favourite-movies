@@ -1,3 +1,3 @@
 # my-favourite-movies
-Made a app using react which shows the name of the good games which I have played and also provided the IMDB rating.
+Made a app using react which shows the name of mt favourite movies which I have seen and also provided the IMDB rating.
 Created with CodeSandbox
